@@ -23,10 +23,6 @@ The program models a **tennis match** by breaking it down into:
 - **Dynamic Programming** (Optimized probability calculations)
 - **Hash Maps (unordered_map)** (Memoization for fast lookups)
 
-## 💡 Future Improvements
-- Support for real-time match tracking
-- Incorporation of player statistics from external sources
-- Graphical representation of match probabilities
 
 
  
